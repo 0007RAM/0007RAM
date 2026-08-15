@@ -9,13 +9,13 @@
 
 <div align="center">
 
-🌱 Learning **Spring Boot, Hibernate, PostgreSQL & System Design**
+Learning **Spring Boot, Hibernate, PostgreSQL & System Design**
 
-💻 Solved **450+ DSA Problems**
+Solved **550+ DSA Problems**
 
-🏆 **Cognizant Technoverse 2026 Semifinalist**
+**Cognizant Technoverse 2026 Semifinalist**
 
-🎯 Looking for **Backend Developer Opportunities**
+Looking for **Backend Developer Opportunities**
 
 </div>
 
