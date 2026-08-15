@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sai+Ram+K!;+Backend+Developer;+Spring+Boot+Enthusiast;+450%2B+DSA+Problems+Solved;+Building+Scalable+Applications!;" />
 </h1>
 
-<h3 align="center">🚀 Final Year CSE Student | Backend Developer | Java & Spring Boot Enthusiast</h3>
+<h3 align="center">Final Year CSE Student | Backend Developer | Java & Spring Boot Enthusiast</h3>
 
 <br/>
 
