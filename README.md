@@ -1,24 +1,127 @@
-# 💫 About Me:
-I am a Computer Science undergraduate at R.V.R & J.C College Of Engineering with a solid academic background (CGPA: 8.5) and a strong foundation in core computer science concepts such as Data Structures, OOP, DBMS, and Operating Systems. I previously completed a Diploma in Computer Engineering, which helped me build practical technical skills early in my career.<br><br>I have hands-on experience through internships where I worked on real-world projects like a Credit Card Fraud Detection system using machine learning and a Digital Library Management System built with Flask. These experiences strengthened my skills in backend development, API design, and working with databases like PostgreSQL.<br><br>I enjoy building scalable applications and exploring technologies across full-stack development and AI. I’ve developed projects such as a movie recommendation website and a smart resume builder, focusing on clean design, performance, and usability.<br><br>I am currently looking for opportunities where I can apply my backend and problem-solving skills, continue learning, and contribute to impactful and innovative technology solutions.
+<h1 align="center">
+  Hi 👋, I'm Sai Ram K
+</h1>
 
+<h3 align="center">
+🚀 Final Year CSE Student | Backend Developer | Java & Spring Boot Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/007ram)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:20072cm031@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=0007RAM&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=0007RAM&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=0007RAM&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0007RAM&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+🌱 Currently learning **Spring Boot, Hibernate, PostgreSQL & System Design**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0007RAM&limit=5&theme=dark&combine_all_yearly_contributions=tru
+💻 Solved **450+ DSA Problems** across LeetCode and other platforms
+
+🏆 **Cognizant Technoverse 2026 Semifinalist**
+
+🎯 Looking for **Backend Developer Opportunities**
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=0007RAM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Final Year B.Tech CSE Student at **RVR & JC College of Engineering**
+- 💻 Passionate about Backend Development and Scalable Systems
+- ☕ Strong in Java, Spring Boot, Hibernate, REST APIs
+- 🧠 Practicing Data Structures & Algorithms regularly
+- 🌐 Interested in System Design and Cloud Technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Solved **450+ DSA Problems**
+- 🏅 Cognizant Technoverse 2026 Semifinalist
+- 🎖️ ECET Rank **180** among 50,000+ candidates
+- ☁️ AWS Academy Cloud Foundations Certified
+- 💻 HackerRank SQL (Intermediate) Certified
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 SmartQueue - Virtual Queue Management System
+- Spring Boot, Hibernate, PostgreSQL
+- QR-based token generation
+- Real-time queue tracking
+- Admin dashboard and queue analytics
+
+### 📚 Digital Library Manager
+- Flask, PostgreSQL
+- Authentication & Authorization
+- Book Issue/Return Management
+- Admin Dashboard
+
+### 📝 Smart Resume Builder
+- Node.js, Express.js
+- JWT Authentication
+- Live Resume Preview
+- PDF Export Functionality
+
+### 🎬 M4You Movie Recommendation Platform
+- JavaScript, Bootstrap
+- 1000+ movie recommendations
+- Responsive UI
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_URL)
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
