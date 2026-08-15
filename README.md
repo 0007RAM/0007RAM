@@ -61,7 +61,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 Solved **450+ DSA Problems**
+- 🥇 Solved **550+ DSA Problems**
 - 🏅 Cognizant Technoverse 2026 Semifinalist
 - 🎖️ ECET Rank **180** among 50,000+ candidates
 - ☁️ AWS Academy Cloud Foundations Certified
@@ -111,16 +111,21 @@
 </p>
 
 ---
-
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+<p align="center">
+  <a href="https://www.linkedin.com/in/007ram/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+  <a href="https://leetcode.com/u/0007RAM/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_URL)
-
----
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
