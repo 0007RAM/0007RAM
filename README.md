@@ -97,7 +97,7 @@ Looking for **Backend Developer Opportunities**
 
 ### 🥇 Competitive Programming
 
-- Solved **450+ DSA Problems**
+- Solved **550+ DSA Problems**
 - Strong problem-solving skills in Java
 - Active LeetCode practitioner
 - Consistent focus on Data Structures & Algorithms
